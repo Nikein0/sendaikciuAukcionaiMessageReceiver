@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><seller>
+    <account>
+        <id>0</id>
+        <username>username1123</username>
+    </account>
+    <id>0</id>
+    <items>
+        <category>
+            <id>0</id>
+            <name>category1</name>
+        </category>
+        <id>0</id>
+        <name>book</name>
+        <pricing>
+            <currentPrice>12.0</currentPrice>
+            <id>0</id>
+            <minimumBid>2.0</minimumBid>
+            <startingPrice>10.0</startingPrice>
+        </pricing>
+    </items>
+    <name>nicolas</name>
+    <nickname>nickname</nickname>
+    <surname>einoris</surname>
+</seller>
